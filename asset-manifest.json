@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sandhu656.github.io/static/css/main.430076a6.css",
+    "main.js": "/sandhu656.github.io/static/js/main.137e05b7.js",
+    "index.html": "/sandhu656.github.io/index.html",
+    "main.430076a6.css.map": "/sandhu656.github.io/static/css/main.430076a6.css.map",
+    "main.137e05b7.js.map": "/sandhu656.github.io/static/js/main.137e05b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.430076a6.css",
+    "static/js/main.137e05b7.js"
+  ]
+}
