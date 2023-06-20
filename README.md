@@ -13,9 +13,7 @@ You're one-stop for recipes, Foodverse is the best app for any type of cooking a
 2.  Users can save specific recipes as the favorites
 3.  Favorite recipes are also stored in the local storage of the client's browser
 
-### View the app (Hosted on Netlify):
 
-https://food-verse-masud.netlify.app
 
 ### Tools:
 
